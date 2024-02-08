@@ -1,11 +1,8 @@
 # stylelint
 
-一个强大的现代 css 检测器，可以让你在样式表中遵循一致的约定和避免错误。
-
-------
+> 一个强大的现代 css 检测器，可以让你在样式表中遵循一致的约定和避免错误。
 
 官方文档：[https://stylelint.io/](https://stylelint.io/)
-
 中文文档：[http://stylelint.cn/](http://stylelint.cn/)
 
 ## 安装和配置
